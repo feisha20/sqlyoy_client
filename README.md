@@ -1,7 +1,7 @@
 # SQLyoy
 
 <p align="center">
-  <img src="path/to/your/logo.png" width="200" />
+  <img src="public/SQLyoy.png" width="200" />
 </p>
 
 <p align="center">🛠️ 现代化的 MySQL 数据库管理工具 (Windows)</p>
