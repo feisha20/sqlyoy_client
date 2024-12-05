@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="链接到最新发布版本">
-    <img src="https://img.shields.io/github/v/release/你的用户名/SQLyoy?color=orange" />
+    <img src="https://img.shields.io/github/v/release/feisha20/SQLyoy?color=orange" />
   </a>
   <a href="链接到下载统计">
-    <img src="https://img.shields.io/github/downloads/你的用户名/SQLyoy/total.svg" />
+    <img src="https://img.shields.io/github/downloads/feisha20/SQLyoy/total.svg" />
   </a>
   <a href="链接到许可证">
-    <img src="https://img.shields.io/github/license/你的用户名/SQLyoy" />
+    <img src="https://img.shields.io/github/license/feisha20/SQLyoy" />
   </a>
 </p>
 
