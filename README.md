@@ -4,19 +4,9 @@
   <img src="public/SQLyoy.png" width="200" />
 </p>
 
-<p align="center">🛠️ 现代化的 MySQL 数据库管理工具 (Windows)</p>
+<p align="center"> 一个有点意思的Mysql客户端</p>
 
-<p align="center">
-  <a href="链接到最新发布版本">
-    <img src="https://github.com/feisha20/SQLyoy/releases/latest?color=orange" />
-  </a>
-  <a href="链接到下载统计">
-    <img src="https://github.com/feisha20/SQLyoy/releases" />
-  </a>
-  <a href="链接到许可证">
-    <img src="https://github.com/feisha20/SQLyoy/blob/main/LICENSE" />
-  </a>
-</p>
+
 
 ## 🚀 特性亮点
 
