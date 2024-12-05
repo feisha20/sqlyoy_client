@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="链接到最新发布版本">
-    <img src="https://img.shields.io/github/v/release/feisha20/SQLyoy?color=orange" />
+    <img src="https://github.com/feisha20/SQLyoy/releases/latest?color=orange" />
   </a>
   <a href="链接到下载统计">
-    <img src="https://img.shields.io/github/downloads/feisha20/SQLyoy/total.svg" />
+    <img src="https://github.com/feisha20/SQLyoy/releases" />
   </a>
   <a href="链接到许可证">
-    <img src="https://img.shields.io/github/license/feisha20/SQLyoy" />
+    <img src="https://github.com/feisha20/SQLyoy/blob/main/LICENSE" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 ### Windows 用户
 
-- 💻 [点击下载 SQLyoy Setup.exe](链接到你的发布版本)
+- 💻 [点击下载 SQLyoy Setup.exe](https://github.com/feisha20/sqlyoy_client/releases/tag/v1.0.0)
 - 运行安装程序，按提示完成安装
 - 启动 SQLyoy 开始使用
 
