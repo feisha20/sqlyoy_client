@@ -1,7 +1,7 @@
 # SQLyoy
 
 <p align="center">
-  <img src="public/SQLyoy.png" width="200" />
+  <img src="public/logo.png" width="200" />
 </p>
 
 <p align="center"> 一个简单又不简单的Mysql客户端</p>
